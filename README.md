@@ -1,4 +1,4 @@
-﻿# MedICARE AI — Intelligent Healthcare. Accessible Everywhere.
+# MedICARE AI — Intelligent Healthcare. Accessible Everywhere.
 
 An AI-powered multimodal healthcare platform connecting patients with accessible healthcare services, symptom understanding, injury photo triage, emergency first-aid protocols, and verified clinical doctor discovery.
 
