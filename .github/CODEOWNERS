@@ -1,0 +1,7 @@
+﻿# Repository code owners
+* @core-team
+/client/ @frontend-team
+/server/ @backend-team
+/ml/ @ai-team
+/database/ @database-team
+/deployment/ @devops-team

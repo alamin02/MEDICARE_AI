@@ -1,0 +1,30 @@
+﻿# Local environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Builds
+dist/
+build/
+
+# Private uploads and data
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/medical_images/*
+!storage/medical_images/.gitkeep
+storage/reports/*
+!storage/reports/.gitkeep
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
